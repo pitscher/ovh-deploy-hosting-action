@@ -8,7 +8,7 @@ A GitHub Action to deploy the contents of a repository to an OVH Hosting Plan (w
 
 * OVH Account with an active [Pro Hosting](https://www.ovh.de/hosting/hosting-pro.xml) service (which has SSH-support)
 
-  * A new user with SSH access to your hosting account (Web -> Hosting plans -> <yourPlan> -> FTP - SSH -> Create a FTP user)
+  * A new user with SSH access to your hosting account (Web -> Hosting plans -> `<yourPlan>` -> FTP - SSH -> Create a FTP user)
 
   * Grant the user SSH access after you created the account
 
@@ -16,7 +16,7 @@ A GitHub Action to deploy the contents of a repository to an OVH Hosting Plan (w
 
 * A repository with your websites code
 
-* Needed environment variables are configured and the SSH users name + password are available as GitHub secrets (<yourRepository> -> Settings -> Secrets -> New secret)
+* Needed environment variables are configured and the SSH users name + password are available as GitHub secrets (`<yourRepository>` -> Settings -> Secrets -> New secret)
 
 ## Example usage
 
