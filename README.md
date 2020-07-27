@@ -2,7 +2,7 @@
 
 A GitHub Action to deploy the contents of a repository to an OVH Hosting Plan (with SSH support)
 
->>This GitHub Action works best with the OVH Pro Hosting plan. It might work with other providers if their hosting product meet the reguirements listed below.
+>This GitHub Action works best with the OVH Pro Hosting plan. It might work with other providers if their hosting product meet the reguirements listed below.
 
 ## Requirements
 
